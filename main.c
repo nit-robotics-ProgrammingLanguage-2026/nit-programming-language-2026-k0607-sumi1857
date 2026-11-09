@@ -18,7 +18,7 @@ int main(void)
         {
             if (i != j && i + j == n)
             {
-                counnt++;
+                count++;
             }
         }
     }
